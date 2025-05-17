@@ -46,4 +46,4 @@
   <img src="https://komarev.com/ghpvc/?username=q8j-dev&style=for-the-badge&color=8E24AA&label=PROFILE+VIEWS" style="border-radius:30px;"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1B9A,50:8E24AA,100:CE93D8&height=100§ion=footer" width="100%" style="margin-top:20px;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1B9A,50:8E24AA,100:CE93D8&height=100§ion=header" width="100%" style="margin-top:20px;"/>
