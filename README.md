@@ -1,4 +1,5 @@
-# Hi, I'm q8j.
+# Hey!
+I'm q8j.
 
 I'm a developer working on multiple projects in the U.S.A.
 
