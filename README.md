@@ -11,10 +11,10 @@
 </div>
 <div align="center" style="background-color: #1E1E1E; padding: 20px; border-radius: 30px;">
   <strong>Bonnie</strong>  
-  A shapes.inc bot fully working on corvy.chat (coming soon).  
+  // A shapes.inc bot fully working on corvy.chat (coming soon).  
   <br><br>
   <strong>The GLSeries</strong>  
-  A fully static game site with 100+ games.  
+  // A fully static game site with 100+ games.  
   <br><br>
   <em>More to come soon</em>
 </div>
