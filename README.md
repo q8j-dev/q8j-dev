@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hey there, I'm q8j!
 
 Welcome to my profile! I'm a developer who likes to work on coding, and I pretty much enjoy anything else. I'm very good at breaking things, so lmk if something's broken at q8j._ on Discord.
@@ -5,8 +7,8 @@ Welcome to my profile! I'm a developer who likes to work on coding, and I pretty
 ---
 
 ### Projects I'm into
-- **Bonnie** – A shapes.inc bot fully working on corvy.chat (soon).
-- **The GLSeries** – A fully static game site with 100+ games.
+- **Bonnie** – A shapes.inc bot fully working on corvy.chat (soon).  
+- **The GLSeries** – A fully static game site with 100+ games.  
 - more to come soon 👀
 
 ---
@@ -26,6 +28,8 @@ Welcome to my profile! I'm a developer who likes to work on coding, and I pretty
 ### Let's chat!
 - Ask me anything by [starting a discussion](https://github.com/q8j-dev/q8j-dev/discussions)
 
---------------------
+---
 
 ![Visitors](https://komarev.com/ghpvc/?username=q8j-dev&label=visitors&style=flat&color=2b3137)
+
+</div>
