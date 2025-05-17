@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=200&section=header&text=Hey%20there%2C%20I%27m%20q8j!&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A237E,4A148C,9C27B0&height=200&section=header&text=Hey%20there%2C%20I%27m%20q8j!&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" style="border-radius: 30px;" />
 
 <div align="center">
-  <p>Welcome to my profile! I'm a developer who likes to work on coding, and I pretty much enjoy anything else. I'm very good at breaking things, so lmk if something's broken at q8j._ on Discord.</p>
+  <p style="text-align: center;">Welcome to my profile! I'm a developer who likes to work on coding, and I pretty much enjoy anything else. I'm very good at breaking things, so lmk if something's broken at q8j._ on Discord.</p>
 </div>
 
 <br>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table border="0" cellspacing="0" cellpadding="0" style="border-radius: 15px; overflow: hidden;">
     <tr>
       <td width="800px">
         <details open>
-          <summary><h2 align="center" style="margin:0;">Projects I'm into</h2></summary>
+          <summary><h2 align="center" style="margin:0; text-align: center;">Projects I'm into</h2></summary>
           <div align="center">
-            <table border="0" cellspacing="0" cellpadding="10">
+            <table border="0" cellspacing="0" cellpadding="10" style="border-radius: 15px;">
               <tr>
                 <td align="center">
                   <h4><b>Bonnie</b></h4>
@@ -44,11 +44,11 @@
 <br>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table border="0" cellspacing="0" cellpadding="0" style="border-radius: 15px; overflow: hidden;">
     <tr>
       <td width="800px">
         <details open>
-          <summary><h2 align="center" style="margin:0;">I like working with</h2></summary>
+          <summary><h2 align="center" style="margin:0; text-align: center;">I like working with</h2></summary>
           <div align="center">
             <br>
             <div>
@@ -72,11 +72,11 @@
 <br>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table border="0" cellspacing="0" cellpadding="0" style="border-radius: 15px; overflow: hidden;">
     <tr>
       <td width="800px">
         <details open>
-          <summary><h2 align="center" style="margin:0;">GitHub Stats</h2></summary>
+          <summary><h2 align="center" style="margin:0; text-align: center;">GitHub Stats</h2></summary>
           <div align="center">
             <br>
             <img src="https://github-readme-stats.vercel.app/api?username=q8j-dev&show_icons=true&theme=react&border_radius=30&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_title=true" width="80%" style="border-radius: 30px;" />
@@ -93,11 +93,11 @@
 <br>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table border="0" cellspacing="0" cellpadding="0" style="border-radius: 15px; overflow: hidden;">
     <tr>
       <td width="800px">
         <details open>
-          <summary><h2 align="center" style="margin:0;">Let's chat!</h2></summary>
+          <summary><h2 align="center" style="margin:0; text-align: center;">Let's chat!</h2></summary>
           <div align="center">
             <br>
             <a href="https://github.com/q8j-dev/q8j-dev/discussions">
@@ -113,10 +113,10 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=q8j-dev&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=q8j-dev&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&borderRadius=30" style="border-radius: 30px;" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A237E,4A148C,9C27B0&height=100&section=footer" width="100%" style="border-radius: 30px;" />
 
 </div>
