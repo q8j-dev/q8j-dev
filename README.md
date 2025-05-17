@@ -6,8 +6,8 @@ Welcome to my profile! I'm a developer who likes to work on coding, and I pretty
 
 ### Projects I'm into
 - **Bonnie** – A shapes.inc bot fully working on corvy.chat (soon).
-- ☁️ **The GLSeries** – A fully static game site with 100+ games.
-- and more soon 👀
+- **The GLSeries** – A fully static game site with 100+ games.
+- more to come soon 👀
 
 ---
 
