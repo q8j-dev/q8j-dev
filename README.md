@@ -1,10 +1,30 @@
-# Hey!
-I'm q8j.
+# Hey there, I'm q8j!
 
-I'm a developer working on multiple projects in the U.S.A.
+Welcome to my profile! I'm a developer who likes to work on coding, and I pretty much enjoy anything else. I'm very good at breaking things, so lmk if something's broken at q8j._ on Discord.
 
-## - I ported shapes.inc onto Corvy.
-## - Making game sites in HTML.
-## - Ask me about: Coding, Bot Developement, or just general questions!
+---
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=q8j-dev&show_icons=true)
+### Projects I'm into
+- **Bonnie** – A shapes.inc bot fully working on corvy.chat (soon).
+- ☁️ **The GLSeries** – A fully static game site with 100+ games.
+- and more soon 👀
+
+---
+
+### I like working with
+- HTML · JavaScript · CSS  
+- Static Sites · Serverless setups
+
+---
+
+### GitHub Stats
+![q8j's GitHub stats](https://github-readme-stats.vercel.app/api?username=q8j-dev&show_icons=true&theme=dark&hide_title=true)
+
+---
+
+### Let's chat!
+- Ask me anything by [starting a discussion](https://github.com/q8j-dev/q8j-dev/discussions)
+
+--------------------
+
+![Visitors](https://komarev.com/ghpvc/?username=q8j-dev&label=visitors&style=flat&color=2b3137)
