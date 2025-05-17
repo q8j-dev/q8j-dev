@@ -22,7 +22,9 @@ Welcome to my profile! I'm a developer who likes to work on coding, and I pretty
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=q8j-dev&show_icons=true&theme=dark&hide_title=true&border_radius=16" alt="q8j's GitHub stats" />
 </p>
+
 ---
+
 ### Let's chat!
 <p>
   Ask me anything by <a href="https://github.com/q8j-dev/q8j-dev/discussions">starting a discussion</a>
