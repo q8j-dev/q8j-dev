@@ -2,7 +2,7 @@
 
 <div align="center" style="background-color: #1E1E1E; padding: 20px; border-radius: 30px;">
   <p style="text-align: center; color: #ffffff; margin: 0;">
-    Welcome to my profile! I'm a developer who likes to work on coding, and I pretty much enjoy Fanything else. I'm very good at breaking things, so let me know if something's broken at <code>q8j._</code> on Discord.
+    Welcome to my profile! I'm a developer who likes to work on coding, and I pretty much enjoy anything else. I'm very good at breaking things, so lmk if something's broken at <code>q8j._</code> on Discord.
   </p>
 </div>
 
