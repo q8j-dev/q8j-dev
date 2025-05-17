@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1B9A,50:8E24AA,100:CE93D8&height=200&ion=header&text=Hey%20there%2C%20I%27m%20q8j!&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1B9A,50:8E24AA,100:AB47BC&height=200&ion=header&text=Hey%20there%2C%20I%27m%20q8j!&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
 
 <div align="center" style="background-color: #1E1E1E; padding: 20px; border-radius: 30px;">
   <p style="text-align: center; color: #ffffff; margin: 0;">
