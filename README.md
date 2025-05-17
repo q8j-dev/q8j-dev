@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <h2>GitHub Stats</h2>
+  <h2>My Stats</h2>
 </div>
 <div align="center" style="background-color: #1E1E1E; padding: 20px; border-radius: 30px;">
   <img src="https://github-readme-stats.vercel.app/api?username=q8j-dev&show_icons=true&theme=react&border_radius=30&hide_border=true&bg_color=0D1117&title_color=A259FF&icon_color=A259FF&hide_title=true" width="80%" style="margin-bottom:20px;border-radius:30px;"/>
@@ -40,7 +40,7 @@
 </div>
 
 <div align="center">
-  <h2>Profile Views</h2>
+  <h2>Views</h2>
 </div>
 <div align="center" style="background-color: #1E1E1E; padding: 20px; border-radius: 30px;">
   <img src="https://komarev.com/ghpvc/?username=q8j-dev&style=for-the-badge&color=8E24AA&label=PROFILE+VIEWS" style="border-radius:30px;"/>
