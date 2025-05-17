@@ -14,7 +14,7 @@
   / A shapes.inc bot fully working on corvy.chat (coming soon).  
   <br><br>
   <strong>The GLSeries</strong>  
-  / A fully static game site with 100+ games. Being worked on with [Marki](https://github.com/Endlessguyin)
+  / A fully static game site with 100+ games. Being worked on with <a href="https://github.com/Endlessguyin" target="_blank">Marki</a>
   <br><br>
   <em>More to come soon</em>
 </div>
