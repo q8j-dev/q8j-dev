@@ -37,18 +37,10 @@ A fully static game site with 100+ games.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=q8j-dev&theme=react&border_radius=30&hide_border=true&background=0D1117&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF" width="80%" style="border-radius: 30px;" />
 </div>
 
-## Let’s chat!
-
-<div align="center" style="border-radius: 30px; background-color: #1E1E1E; padding: 20px;">
-<a href="https://github.com/q8j-dev/q8j-dev/discussions">
-  <img src="https://img.shields.io/badge/Start%20a%20discussion-0D1117?style=for-the-badge&logo=github&logoColor=white&borderRadius=30" style="border-radius: 30px;"/>
-</a>
-</div>
-
 ## Profile Views
 
 <div align="center" style="border-radius: 30px; background-color: #1E1E1E; padding: 20px;">
-<img src="https://komarev.com/ghpvc/?username=q8j-dev&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&borderRadius=30" style="border-radius: 30px;" />
+<img src="https://komarev.com/ghpvc/?username=q8j-dev&style=for-the-badge&color=8E24AA&label=PROFILE+VIEWS&borderRadius=30" style="border-radius: 30px;" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A1B9A,8E24AA,CE93D8&height=100&section=footer" width="100%" style="border-radius: 30px;" />
