@@ -1,36 +1,45 @@
-<div align="center">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@600&display=swap');
+  * {
+    font-family: 'Unbounded', sans-serif;
+    font-weight: 600;
+  }
+</style>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A237E,4A148C,9C27B0&height=200&section=header&text=Hey%20there%2C%20I%27m%20q8j!&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" style="border-radius: 30px;" />
+<div align="center" style="font-family: 'Unbounded', sans-serif; font-weight: 600;">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A1B9A,9C27B0,BA68C8&height=200&section=header&text=Hey%20there%2C%20I%27m%20q8j!&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" style="border-radius: 30px;" />
 
 <div align="center">
-  <p style="text-align: center;">Welcome to my profile! I'm a developer who likes to work on coding, and I pretty much enjoy anything else. I'm very good at breaking things, so lmk if something's broken at q8j._ on Discord.</p>
+  <p style="text-align: center; color: #ffffff;">Welcome to my profile! I'm a developer who likes to work on coding, and I pretty much enjoy anything else. I'm very good at breaking things, so lmk if something's broken at q8j._ on Discord.</p>
 </div>
 
-<br>
+<br><br>
 
+<!-- Projects I'm into section -->
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border-radius: 15px; overflow: hidden;">
+  <table border="0" cellspacing="0" cellpadding="20" style="border-radius: 15px; background-color: #1E1E1E; width: 800px;">
     <tr>
-      <td width="800px">
+      <td>
         <details open>
-          <summary><h2 align="center" style="margin:0; text-align: center;">Projects I'm into</h2></summary>
+          <summary><h2 style="text-align: center; color: #ffffff;">Projects I'm into</h2></summary>
           <div align="center">
-            <table border="0" cellspacing="0" cellpadding="10" style="border-radius: 15px;">
+            <table border="0" cellspacing="0" cellpadding="10">
               <tr>
                 <td align="center">
-                  <h4><b>Bonnie</b></h4>
-                  <p>A shapes.inc bot fully working on corvy.chat (soon).</p>
+                  <h4 style="color: #ffffff;"><b>Bonnie</b></h4>
+                  <p style="color: #ffffff;">A shapes.inc bot fully working on corvy.chat (soon).</p>
                 </td>
               </tr>
               <tr>
                 <td align="center">
-                  <h4><b>The GLSeries</b></h4>
-                  <p>A fully static game site with 100+ games.</p>
+                  <h4 style="color: #ffffff;"><b>The GLSeries</b></h4>
+                  <p style="color: #ffffff;">A fully static game site with 100+ games.</p>
                 </td>
               </tr>
               <tr>
                 <td align="center">
-                  <p>more to come soon 👀</p>
+                  <p style="color: #ffffff;">more to come soon 👀</p>
                 </td>
               </tr>
             </table>
@@ -41,14 +50,15 @@
   </table>
 </div>
 
-<br>
+<br><br>
 
+<!-- I like working with section -->
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border-radius: 15px; overflow: hidden;">
+  <table border="0" cellspacing="0" cellpadding="20" style="border-radius: 15px; background-color: #1E1E1E; width: 800px;">
     <tr>
-      <td width="800px">
+      <td>
         <details open>
-          <summary><h2 align="center" style="margin:0; text-align: center;">I like working with</h2></summary>
+          <summary><h2 style="text-align: center; color: #ffffff;">I like working with</h2></summary>
           <div align="center">
             <br>
             <div>
@@ -69,14 +79,15 @@
   </table>
 </div>
 
-<br>
+<br><br>
 
+<!-- GitHub Stats section -->
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border-radius: 15px; overflow: hidden;">
+  <table border="0" cellspacing="0" cellpadding="20" style="border-radius: 15px; background-color: #1E1E1E; width: 800px;">
     <tr>
-      <td width="800px">
+      <td>
         <details open>
-          <summary><h2 align="center" style="margin:0; text-align: center;">GitHub Stats</h2></summary>
+          <summary><h2 style="text-align: center; color: #ffffff;">GitHub Stats</h2></summary>
           <div align="center">
             <br>
             <img src="https://github-readme-stats.vercel.app/api?username=q8j-dev&show_icons=true&theme=react&border_radius=30&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_title=true" width="80%" style="border-radius: 30px;" />
@@ -90,14 +101,15 @@
   </table>
 </div>
 
-<br>
+<br><br>
 
+<!-- Let's chat! section -->
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border-radius: 15px; overflow: hidden;">
+  <table border="0" cellspacing="0" cellpadding="20" style="border-radius: 15px; background-color: #1E1E1E; width: 800px;">
     <tr>
-      <td width="800px">
+      <td>
         <details open>
-          <summary><h2 align="center" style="margin:0; text-align: center;">Let's chat!</h2></summary>
+          <summary><h2 style="text-align: center; color: #ffffff;">Let's chat!</h2></summary>
           <div align="center">
             <br>
             <a href="https://github.com/q8j-dev/q8j-dev/discussions">
@@ -111,12 +123,12 @@
   </table>
 </div>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=q8j-dev&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&borderRadius=30" style="border-radius: 30px;" />
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A237E,4A148C,9C27B0&height=100&section=footer" width="100%" style="border-radius: 30px;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A1B9A,9C27B0,BA68C8&height=100&section=footer" width="100%" style="border-radius: 30px;" />
 
 </div>
