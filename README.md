@@ -18,7 +18,10 @@ Welcome to my profile! I'm a developer who likes to work on coding, and I pretty
 ---
 
 ### GitHub Stats
-![q8j's GitHub stats](https://github-readme-stats.vercel.app/api?username=q8j-dev&show_icons=true&theme=dark&hide_title=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=q8j-dev&show_icons=true&theme=dark&hide_title=true&border_radius=16" alt="q8j's GitHub Stats" style="border-radius: 16px;" />
+</p>
 
 ---
 
