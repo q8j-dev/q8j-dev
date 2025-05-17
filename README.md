@@ -7,26 +7,34 @@ Welcome to my profile! I'm a developer who likes to work on coding, and I pretty
 ---
 
 ### Projects I'm into
-- **Bonnie** – A shapes.inc bot fully working on corvy.chat (soon).  
-- **The GLSeries** – A fully static game site with 100+ games.  
-- more to come soon 👀
+<ul align="center">
+  <li><strong>Bonnie</strong> – A shapes.inc bot fully working on corvy.chat (soon).</li>
+  <li><strong>The GLSeries</strong> – A fully static game site with 100+ games.</li>
+  <li>more to come soon 👀</li>
+</ul>
 
 ---
 
 ### I like working with
-- HTML · JavaScript · CSS  
-- Static Sites · Serverless setups
+<ul align="center">
+  <li>HTML · JavaScript · CSS</li>
+  <li>Static Sites · Serverless setups</li>
+</ul>
 
 ---
 
 ### GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=q8j-dev&show_icons=true&theme=dark&hide_title=true&border_radius=16" alt="q8j's GitHub stats" /> </p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=q8j-dev&show_icons=true&theme=dark&hide_title=true&border_radius=16" alt="q8j's GitHub stats" />
+</p>
 
 ---
 
 ### Let's chat!
-- Ask me anything by [starting a discussion](https://github.com/q8j-dev/q8j-dev/discussions)
+<p>
+  Ask me anything by <a href="https://github.com/q8j-dev/q8j-dev/discussions">starting a discussion</a>
+</p>
 
 ---
 
