@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20there%2C%20I%27m%20q8j!&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=200&section=header&text=Hey%20there%2C%20I%27m%20q8j!&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
 
 <div align="center">
   <p>Welcome to my profile! I'm a developer who likes to work on coding, and I pretty much enjoy anything else. I'm very good at breaking things, so lmk if something's broken at q8j._ on Discord.</p>
@@ -79,9 +79,9 @@
           <summary><h2 align="center" style="margin:0;">GitHub Stats</h2></summary>
           <div align="center">
             <br>
-            <img src="https://github-readme-stats.vercel.app/api?username=q8j-dev&show_icons=true&theme=react&border_radius=30&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_title=true" width="80%" />
+            <img src="https://github-readme-stats.vercel.app/api?username=q8j-dev&show_icons=true&theme=react&border_radius=30&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_title=true" width="80%" style="border-radius: 30px;" />
             <br><br>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=q8j-dev&theme=react&border_radius=30&hide_border=true&background=0D1117&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF" width="80%" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=q8j-dev&theme=react&border_radius=30&hide_border=true&background=0D1117&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF" width="80%" style="border-radius: 30px;" />
             <br>
           </div>
         </details>
@@ -117,6 +117,6 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=100&section=footer" width="100%" />
 
 </div>
