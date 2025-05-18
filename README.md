@@ -7,6 +7,7 @@
 </div>
 
 <br>
+<br/>
 
 <div align="center">
   <h2>Projects I'm into</h2>
