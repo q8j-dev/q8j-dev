@@ -16,6 +16,9 @@
   <strong>The GLSeries</strong>  
   / A fully static game site with 100+ games. Being worked on with <a href="https://github.com/Endlessguyin" target="_blank">Marki</a>
   <br><br>
+  <strong><a href="[https://github.com/Endlessguyin](https://github.com/q8j-dev/improved-gdab)" target="_blank">GDAB Improved</a></strong>  
+  / A fix for Game Distribution games being hosted on other sites.
+  <br><br>
   <em>More to come soon</em>
 </div>
 
