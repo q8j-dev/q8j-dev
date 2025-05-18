@@ -20,8 +20,9 @@
   <a href="https://github.com/q8j-dev/improved-gdab" target="_blank" style="color: #add8e6;">
     GDAB Improved
   </a>
-</strong> / A fix for Game Distribution games being hosted on other sites. Made with 
-<a href="https://github.com/Endlessguyin" target="_blank" style="color: #add8e6;">
+</strong>
+ / A fix for Game Distribution games being hosted on other sites. Made with 
+ <a href="https://github.com/Endlessguyin" target="_blank" style="color: #add8e6;">
   Marki
 </a>
 <br><br>
