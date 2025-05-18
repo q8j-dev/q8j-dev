@@ -4,11 +4,8 @@
   <h2 style="text-align: center; color: #ffffff; margin: 0;">
     Welcome to my profile! I'm a developer who likes to work on coding, and I pretty much enjoy anything else. I'm very good at breaking things, so lmk if something's broken at <code>q8j._</code> on Discord.
   </h2>
+<br><br/>
 </div>
-
-<br><br>
-
-
 
 <div align="center">
   <h2>Projects I'm into</h2>
