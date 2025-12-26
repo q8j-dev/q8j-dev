@@ -39,15 +39,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin:5px;border-radius:30px;"/>
   <img src="https://img.shields.io/badge/Static_Sites-4B32C3?style=for-the-badge" style="margin:5px;border-radius:30px;"/>
   <img src="https://img.shields.io/badge/Serverless_setups-FF6C37?style=for-the-badge" style="margin:5px;border-radius:30px;"/>
-</div>
-
-<div align="center">
-  <h2>My Stats</h2>
-</div>
-<div align="center" style="background-color: #1E1E1E; padding: 20px; border-radius: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=q8j-dev&show_icons=true&theme=react&border_radius=30&hide_border=true&bg_color=0D1117&title_color=A259FF&icon_color=C084FC&text_color=D6BCFA&custom_title=GitHub%20Stats" width="80%" style="margin-bottom:20px;border-radius:30px;"/>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=q8j-dev&theme=react&border_radius=30&hide_border=true&background=0D1117&fire=C084FC&ring=A259FF&currStreakLabel=BF5AF2&currStreakNum=D46FFF&sideNums=C084FC&sideLabels=E0AFFF&dates=F5D0FF" width="80%" style="border-radius:30px;"/>
+  <img src="https://img.shields.io/badge/LLMs_and_AI-FFFFFF?style=for-the-badge" style="margin:5px;border-radius:30px;"/>
 </div>
 
 <div align="center">
