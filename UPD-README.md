@@ -12,12 +12,6 @@
 </div>
 
 <div align="center">
-
-[![GDAB Improved](https://github-readme-stats.vercel.app/api/pin/?username=q8j-dev&repo=improved-gdab&theme=midnight-purple&hide_border=true)](https://github.com/q8j-dev/improved-gdab)
-
-</div>
-
-<div align="center">
 <table>
 <tr>
 <td align="center" width="50%"><b>Bonnie</b><br/><sub>A shapes.inc bot fully working on corvy.chat — coming soon.</sub></td>
